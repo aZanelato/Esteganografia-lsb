@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esteganografia", "Esteganografia\Esteganografia.csproj", "{668EDA13-5F22-4066-845C-0A340D5343B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668EDA13-5F22-4066-845C-0A340D5343B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668EDA13-5F22-4066-845C-0A340D5343B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668EDA13-5F22-4066-845C-0A340D5343B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668EDA13-5F22-4066-845C-0A340D5343B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5A13A3-C791-40DB-A2B4-F7176BF7EEF7}
+	EndGlobalSection
+EndGlobal
